@@ -10,6 +10,7 @@
 ## Sumário
 
 - [Orientações](#orientações)
+- [Entrega](#entrega)
 - [Nível 1: Vetores básicos](#nível-1-vetores-básicos)
 - [Nível 2: Vetores intermediários e primeiras matrizes](#nível-2-vetores-intermediários-e-primeiras-matrizes)
 - [Nível 3: Matrizes e algoritmos clássicos](#nível-3-matrizes-e-algoritmos-clássicos)
@@ -24,6 +25,13 @@
 - Lembre que o primeiro índice de uma lista é **0**.
 - Para criar uma matriz sem erro de cópia, use `[[0] * colunas for _ in range(linhas)]`.
 - Teste cada programa com pelo menos dois conjuntos de valores.
+
+## Entrega
+
+A entrega deverá ser realizada no **GitHub** e **compartilhada com o instrutor**.
+
+- Publique os arquivos `q01.py` a `q15.py` em um repositório seu.
+- Compartilhe o repositório com o instrutor (adicione-o como colaborador ou envie o link do repositório).
 
 ---
 
