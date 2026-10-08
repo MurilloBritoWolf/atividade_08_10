@@ -1,8 +1,5 @@
 # Atividade de Python: Vetores e Matrizes
 
-> Curso de programação inicial em Python  
-> Tema: listas (vetores) e listas de listas (matrizes)
-
 | Questões | Valor total |
 |:---:|:---:|
 | 15 | 100 pontos |
@@ -152,23 +149,3 @@ Saída: `[31, 4, 32]`.
 | Uso adequado de listas, índices e laços | 20% |
 | Lógica própria, sem atalhos prontos quando não permitidos | 10% |
 | Organização do código, nomes claros de variáveis e comentários | 10% |
-
-## Origem das questões
-
-| Questão | Origem no caderno |
-|:---:|---|
-| 1 | Vetores 01 |
-| 2 | Vetores 08 |
-| 3 | Vetores 05 |
-| 4 | Vetores 07 |
-| 5 | Vetores 11 |
-| 6 | Vetores 17 |
-| 7 | Vetores 18 |
-| 8 | Vetores 23 |
-| 9 | Matrizes 01 |
-| 10 | Matrizes 02 |
-| 11 | Matrizes 04 |
-| 12 | Matrizes 10 |
-| 13 | Matrizes 18 |
-| 14 | Vetores 27 |
-| 15 | Vetores 36 |
