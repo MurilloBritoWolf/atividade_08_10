@@ -2,7 +2,7 @@ lista = [4, 7, 10, 13, 1, 9, 2, 15, 17, 20]
 
 for i in lista:             #Percorre a lista
     if i < 2:               #Se menor que não já não é primo
-        print(f'O numero {i} não é Primo 1!')
+        print(f'O numero {i} não é Primo!')
 
     else:
         primo = True        # Define primo como Bol Verdadeiro
@@ -13,7 +13,7 @@ for i in lista:             #Percorre a lista
                 break
 
         if primo:               #Verifica se a variavel primo é verdadeira/True ou Falsa/False
-            print(f'O numero {i} é Primo 2!')
+            print(f'O numero {i} é Primo!')
 
         else:
-            print(f'O numero {i} não é Primo 3!')
+            print(f'O numero {i} não é Primo!')
