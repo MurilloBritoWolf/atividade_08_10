@@ -7,9 +7,12 @@ for i in range(10):
     numero = int(input("Digite um número:"))
     numeros.append(numero)
 print("Números:", numeros)
+#Pede para o usuário digitar os números e depois imprime a lista.
 
-for j in range(10):
+quantidade = 0
 
-    if numero % 2 == 0:
-        numero += 1
-print("Quantidade de pares:", numero)
+for numero in numeros: 
+        if numero % 2 == 0:
+            quantidade += 1
+print("Quantidade de pares:", quantidade) 
+#verifica quantos números são pares na lista, faz a contagem dos números pares e imprime.                                        
